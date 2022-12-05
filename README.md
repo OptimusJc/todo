@@ -1,5 +1,7 @@
 # Simple Todo App
 
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/optimusJc/main)
+
 ## Available Scripts
 
 In the project directory, you can run:
